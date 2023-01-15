@@ -9,7 +9,7 @@ Git pull --- git pull command is used to fetch and download content from a remot
 Git Merge --- Merging is Git's way of putting a forked history back together again
 Git cherry pick --- Cherry picking is the act of picking a commit from a branch and applying it to another.
 Git Head --- A kind of pointer which is currently which is pointing a latest commit.
-Head^ ---- Parent of current head
+<!-- Head^ ---- Parent of current head -->
 Head ~2 --- Represt the grand parent of latest commit
 Upstream --- It is a address
 git rebase main --- Rebase maine to a another branch
